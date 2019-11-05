@@ -1,5 +1,5 @@
 ﻿using System;
-//Added to repository lab12_assigngrades in github
+//Added to repository lab12assignGrades in github
 
 namespace L12_AssignGrades_MNJ
 {
