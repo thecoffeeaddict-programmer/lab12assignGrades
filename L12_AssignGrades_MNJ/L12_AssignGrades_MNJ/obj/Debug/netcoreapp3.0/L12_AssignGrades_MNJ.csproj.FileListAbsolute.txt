@@ -1,0 +1,11 @@
+C:\Users\mnj12\source\repos\L12_AssignGrades_MNJ\L12_AssignGrades_MNJ\bin\Debug\netcoreapp3.0\L12_AssignGrades_MNJ.exe
+C:\Users\mnj12\source\repos\L12_AssignGrades_MNJ\L12_AssignGrades_MNJ\bin\Debug\netcoreapp3.0\L12_AssignGrades_MNJ.deps.json
+C:\Users\mnj12\source\repos\L12_AssignGrades_MNJ\L12_AssignGrades_MNJ\bin\Debug\netcoreapp3.0\L12_AssignGrades_MNJ.runtimeconfig.json
+C:\Users\mnj12\source\repos\L12_AssignGrades_MNJ\L12_AssignGrades_MNJ\bin\Debug\netcoreapp3.0\L12_AssignGrades_MNJ.runtimeconfig.dev.json
+C:\Users\mnj12\source\repos\L12_AssignGrades_MNJ\L12_AssignGrades_MNJ\bin\Debug\netcoreapp3.0\L12_AssignGrades_MNJ.dll
+C:\Users\mnj12\source\repos\L12_AssignGrades_MNJ\L12_AssignGrades_MNJ\bin\Debug\netcoreapp3.0\L12_AssignGrades_MNJ.pdb
+C:\Users\mnj12\source\repos\L12_AssignGrades_MNJ\L12_AssignGrades_MNJ\obj\Debug\netcoreapp3.0\L12_AssignGrades_MNJ.csprojAssemblyReference.cache
+C:\Users\mnj12\source\repos\L12_AssignGrades_MNJ\L12_AssignGrades_MNJ\obj\Debug\netcoreapp3.0\L12_AssignGrades_MNJ.AssemblyInfoInputs.cache
+C:\Users\mnj12\source\repos\L12_AssignGrades_MNJ\L12_AssignGrades_MNJ\obj\Debug\netcoreapp3.0\L12_AssignGrades_MNJ.AssemblyInfo.cs
+C:\Users\mnj12\source\repos\L12_AssignGrades_MNJ\L12_AssignGrades_MNJ\obj\Debug\netcoreapp3.0\L12_AssignGrades_MNJ.dll
+C:\Users\mnj12\source\repos\L12_AssignGrades_MNJ\L12_AssignGrades_MNJ\obj\Debug\netcoreapp3.0\L12_AssignGrades_MNJ.pdb
